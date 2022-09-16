@@ -1,0 +1,1 @@
+    "mi": "cd database && sequelize db:migrate --config '../config/local.json' --env database"
